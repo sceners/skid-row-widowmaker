@@ -1,4 +1,4 @@
-# Skid Row intro by WidowMaker
+# Skid Row intro conversion by Widow Maker
 
 #### Written in 2007 for Windows.
 
