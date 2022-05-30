@@ -1,2 +1,5 @@
-# skid-row-widowmaker
-Skid Row intro by WidowMaker for Windows, 2007.
+# Skid Row intro by WidowMaker
+
+#### Written in 2007 for Windows.
+
+[Original package](https://defacto2.net/f/b628987)
