@@ -1,0 +1,65 @@
+'NB. Not all characters were in the original font, sorry. Just use what was there :-)
+'
+'--------------------------------------------------------------------------
+'  SET BELOW TO THE NUMBER OF PAGES YOU WANT (MAX = 50).
+'--------------------------------------------------------------------------
+
+    DIM SHARED AS INTEGER NUM_PAGES = 3
+    
+'   EACH PAGE MUST HAVE 10 LINES.
+
+'   PAGE 1:
+
+    PAGES( 1)="-------------------------------"
+    PAGES( 2)="HIYA. AND WELCOME TO A"
+    PAGES( 3)="CONVERSION OF A SKID ROW"
+    PAGES( 4)="CRACK INTRO!"
+    PAGES( 5)="I HAVE CHANGED ONE"
+    PAGES( 6)="THING ABOUT THIS INTRO. AND"
+    PAGES( 7)="IT IS THAT THE LINES ALL"
+    PAGES( 8)="AUTOMATICALLY CENTER JUSTIFY"
+    PAGES( 9)="BUT READ ON TO THE NEXT PAGE"
+    PAGES(10)="-------------------------------"
+
+'   PAGE 2:
+
+    PAGES(11)="-------------------------------"
+    PAGES(12)="  IF YOU WANT ALL THE LETTERS  "
+    PAGES(13)=" TO LINE UP  LIKE THE ORIGINAL "
+    PAGES(14)="   THEN YOU CAN JUST PAD THE   "
+    PAGES(15)=" STRINGS OUT WITH BLANK SPACES "
+    PAGES(16)=" AND IT WILL HAVE THAT EFFECT. "
+    PAGES(17)=" ANYWAY IT HAS BEEN A FAST AND "
+    PAGES(18)="  SIMPLE CONVERSION SO I HOPE  "
+    PAGES(19)="  IT IS OK. - WIDOW MAKER E.D  "
+    PAGES(20)="-------------------------------"
+
+'   PAGE 3:
+
+    PAGES(21)=""
+    PAGES(22)="S K I D   R O W"
+    PAGES(23)="THE LEADING FORCE"
+    PAGES(24)=""
+    PAGES(25)="IN 2007"
+    PAGES(26)=""
+    PAGES(27)=""
+    PAGES(28)="SEE YOU NEXT TIME"
+    PAGES(29)="-----------------"
+    PAGES(30)=""
+
+'If you wanted to add another page for example, change NUM_PAGES = 3 to NUM_PAGES = 4
+'And add another 10 lines;
+
+'    PAGES(31)=""
+'    PAGES(32)=""
+'    PAGES(33)=""
+'    PAGES(34)=""
+'    PAGES(35)=""
+'    PAGES(36)=""
+'    PAGES(37)=""
+'    PAGES(38)=""
+'    PAGES(39)=""
+'    PAGES(40)=""
+'
+'Etc.. Etc...
+'
